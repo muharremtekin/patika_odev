@@ -1,0 +1,15 @@
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\bin\Debug\net6.0\Koleksiyonlar - Dictionary.exe
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\bin\Debug\net6.0\Koleksiyonlar - Dictionary.deps.json
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\bin\Debug\net6.0\Koleksiyonlar - Dictionary.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\bin\Debug\net6.0\Koleksiyonlar - Dictionary.dll
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\bin\Debug\net6.0\ref\Koleksiyonlar - Dictionary.dll
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\bin\Debug\net6.0\Koleksiyonlar - Dictionary.pdb
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\obj\Debug\net6.0\Koleksiyonlar - Dictionary.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\obj\Debug\net6.0\Koleksiyonlar - Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\obj\Debug\net6.0\Koleksiyonlar - Dictionary.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\obj\Debug\net6.0\Koleksiyonlar - Dictionary.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\obj\Debug\net6.0\Koleksiyonlar - Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\obj\Debug\net6.0\Koleksiyonlar - Dictionary.dll
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\obj\Debug\net6.0\ref\Koleksiyonlar - Dictionary.dll
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\obj\Debug\net6.0\Koleksiyonlar - Dictionary.pdb
+C:\Users\muhar\Desktop\Patika.dev\Koleksiyonlar - Dictionary\obj\Debug\net6.0\Koleksiyonlar - Dictionary.genruntimeconfig.cache

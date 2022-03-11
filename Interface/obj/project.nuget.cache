@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gor9tcBabKWFQWTyaEbzxzISEQxW1yjzOjo9DduC5nJVeTlv3C6heCbAPBJpZcPmkecnb5yin2ZJIH9wZ27x2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muhar\\Desktop\\Patika.dev\\Interface\\Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muhar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

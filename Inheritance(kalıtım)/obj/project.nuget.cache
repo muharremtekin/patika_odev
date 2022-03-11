@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qHuylZ4cBtlGNMEOHNcZK49OcTfOoO6Eu2b0sIoRKtm+4+8AbLiUxas8aoVCUfh1sFMtj0BDeTgaNdsF6++zqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muhar\\Desktop\\Patika.dev\\Inheritance(kalıtım)\\Inheritance(kalıtım).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muhar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\bin\Debug\net5.0\DateTime_ve_Math_Metotlar.exe
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\bin\Debug\net5.0\DateTime_ve_Math_Metotlar.deps.json
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\bin\Debug\net5.0\DateTime_ve_Math_Metotlar.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\bin\Debug\net5.0\DateTime_ve_Math_Metotlar.runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\bin\Debug\net5.0\DateTime_ve_Math_Metotlar.dll
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\bin\Debug\net5.0\ref\DateTime_ve_Math_Metotlar.dll
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\bin\Debug\net5.0\DateTime_ve_Math_Metotlar.pdb
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\obj\Debug\net5.0\DateTime_ve_Math_Metotlar.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\obj\Debug\net5.0\DateTime_ve_Math_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\obj\Debug\net5.0\DateTime_ve_Math_Metotlar.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\obj\Debug\net5.0\DateTime_ve_Math_Metotlar.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\obj\Debug\net5.0\DateTime_ve_Math_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\obj\Debug\net5.0\DateTime_ve_Math_Metotlar.dll
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\obj\Debug\net5.0\ref\DateTime_ve_Math_Metotlar.dll
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\obj\Debug\net5.0\DateTime_ve_Math_Metotlar.pdb
+C:\Users\muhar\Desktop\Patika.dev\DateTime_ve_Math_Metotlar\obj\Debug\net5.0\DateTime_ve_Math_Metotlar.genruntimeconfig.cache

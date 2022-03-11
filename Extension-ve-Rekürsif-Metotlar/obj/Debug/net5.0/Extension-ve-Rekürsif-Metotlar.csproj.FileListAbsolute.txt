@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\bin\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.exe
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\bin\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.deps.json
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\bin\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\bin\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\bin\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.dll
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\bin\Debug\net5.0\ref\Extension-ve-Rekürsif-Metotlar.dll
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\bin\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.pdb
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\obj\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\obj\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\obj\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\obj\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\obj\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\obj\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.dll
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\obj\Debug\net5.0\ref\Extension-ve-Rekürsif-Metotlar.dll
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\obj\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.pdb
+C:\Users\muhar\Desktop\Patika.dev\Extension-ve-Rekürsif-Metotlar\obj\Debug\net5.0\Extension-ve-Rekürsif-Metotlar.genruntimeconfig.cache

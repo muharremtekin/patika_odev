@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "hackerrank_sorulari/1.0.0": {
+        "runtime": {
+          "hackerrank_sorulari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hackerrank_sorulari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

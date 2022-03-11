@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\bin\Debug\net5.0\array_sınıfı_ve_methodları.exe
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\bin\Debug\net5.0\array_sınıfı_ve_methodları.deps.json
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\bin\Debug\net5.0\array_sınıfı_ve_methodları.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\bin\Debug\net5.0\array_sınıfı_ve_methodları.runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\bin\Debug\net5.0\array_sınıfı_ve_methodları.dll
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\bin\Debug\net5.0\ref\array_sınıfı_ve_methodları.dll
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\bin\Debug\net5.0\array_sınıfı_ve_methodları.pdb
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\obj\Debug\net5.0\array_sınıfı_ve_methodları.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\obj\Debug\net5.0\array_sınıfı_ve_methodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\obj\Debug\net5.0\array_sınıfı_ve_methodları.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\obj\Debug\net5.0\array_sınıfı_ve_methodları.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\obj\Debug\net5.0\array_sınıfı_ve_methodları.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\obj\Debug\net5.0\array_sınıfı_ve_methodları.dll
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\obj\Debug\net5.0\ref\array_sınıfı_ve_methodları.dll
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\obj\Debug\net5.0\array_sınıfı_ve_methodları.pdb
+C:\Users\muhar\Desktop\Patika.dev\array_sınıfı_ve_methodları\obj\Debug\net5.0\array_sınıfı_ve_methodları.genruntimeconfig.cache

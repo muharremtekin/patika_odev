@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "array_sınıfı_ve_methodları/1.0.0": {
+        "runtime": {
+          "array_sınıfı_ve_methodları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "array_sınıfı_ve_methodları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

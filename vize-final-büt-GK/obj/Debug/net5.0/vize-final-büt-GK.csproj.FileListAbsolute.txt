@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\bin\Debug\net5.0\vize-final-büt-GK.exe
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\bin\Debug\net5.0\vize-final-büt-GK.deps.json
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\bin\Debug\net5.0\vize-final-büt-GK.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\bin\Debug\net5.0\vize-final-büt-GK.runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\bin\Debug\net5.0\vize-final-büt-GK.dll
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\bin\Debug\net5.0\ref\vize-final-büt-GK.dll
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\bin\Debug\net5.0\vize-final-büt-GK.pdb
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\obj\Debug\net5.0\vize-final-büt-GK.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\obj\Debug\net5.0\vize-final-büt-GK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\obj\Debug\net5.0\vize-final-büt-GK.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\obj\Debug\net5.0\vize-final-büt-GK.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\obj\Debug\net5.0\vize-final-büt-GK.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\obj\Debug\net5.0\vize-final-büt-GK.dll
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\obj\Debug\net5.0\ref\vize-final-büt-GK.dll
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\obj\Debug\net5.0\vize-final-büt-GK.pdb
+C:\Users\muhar\Desktop\Patika.dev\vize-final-büt-GK\obj\Debug\net5.0\vize-final-büt-GK.genruntimeconfig.cache

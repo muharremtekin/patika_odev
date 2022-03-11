@@ -1,0 +1,15 @@
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\bin\Debug\net6.0\Static Sınıf ve Üyeler.exe
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\bin\Debug\net6.0\Static Sınıf ve Üyeler.deps.json
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\bin\Debug\net6.0\Static Sınıf ve Üyeler.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\bin\Debug\net6.0\Static Sınıf ve Üyeler.dll
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\bin\Debug\net6.0\ref\Static Sınıf ve Üyeler.dll
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\bin\Debug\net6.0\Static Sınıf ve Üyeler.pdb
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\obj\Debug\net6.0\Static Sınıf ve Üyeler.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\obj\Debug\net6.0\Static Sınıf ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\obj\Debug\net6.0\Static Sınıf ve Üyeler.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\obj\Debug\net6.0\Static Sınıf ve Üyeler.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\obj\Debug\net6.0\Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\obj\Debug\net6.0\Static Sınıf ve Üyeler.dll
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\obj\Debug\net6.0\ref\Static Sınıf ve Üyeler.dll
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\obj\Debug\net6.0\Static Sınıf ve Üyeler.pdb
+C:\Users\muhar\Desktop\Patika.dev\Static Sınıf ve Üyeler\obj\Debug\net6.0\Static Sınıf ve Üyeler.genruntimeconfig.cache

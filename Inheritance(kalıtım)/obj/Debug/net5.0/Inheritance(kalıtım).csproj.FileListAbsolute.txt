@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\bin\Debug\net5.0\Inheritance(kalıtım).exe
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\bin\Debug\net5.0\Inheritance(kalıtım).deps.json
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\bin\Debug\net5.0\Inheritance(kalıtım).runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\bin\Debug\net5.0\Inheritance(kalıtım).runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\bin\Debug\net5.0\Inheritance(kalıtım).dll
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\bin\Debug\net5.0\ref\Inheritance(kalıtım).dll
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\bin\Debug\net5.0\Inheritance(kalıtım).pdb
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\obj\Debug\net5.0\Inheritance(kalıtım).csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\obj\Debug\net5.0\Inheritance(kalıtım).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\obj\Debug\net5.0\Inheritance(kalıtım).AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\obj\Debug\net5.0\Inheritance(kalıtım).AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\obj\Debug\net5.0\Inheritance(kalıtım).csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\obj\Debug\net5.0\Inheritance(kalıtım).dll
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\obj\Debug\net5.0\ref\Inheritance(kalıtım).dll
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\obj\Debug\net5.0\Inheritance(kalıtım).pdb
+C:\Users\muhar\Desktop\Patika.dev\Inheritance(kalıtım)\obj\Debug\net5.0\Inheritance(kalıtım).genruntimeconfig.cache

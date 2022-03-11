@@ -1,0 +1,15 @@
+C:\Users\muhar\Desktop\Patika.dev\arraylist\bin\Debug\net6.0\arraylist.exe
+C:\Users\muhar\Desktop\Patika.dev\arraylist\bin\Debug\net6.0\arraylist.deps.json
+C:\Users\muhar\Desktop\Patika.dev\arraylist\bin\Debug\net6.0\arraylist.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\arraylist\bin\Debug\net6.0\arraylist.dll
+C:\Users\muhar\Desktop\Patika.dev\arraylist\bin\Debug\net6.0\ref\arraylist.dll
+C:\Users\muhar\Desktop\Patika.dev\arraylist\bin\Debug\net6.0\arraylist.pdb
+C:\Users\muhar\Desktop\Patika.dev\arraylist\obj\Debug\net6.0\arraylist.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\arraylist\obj\Debug\net6.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\arraylist\obj\Debug\net6.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\arraylist\obj\Debug\net6.0\arraylist.dll
+C:\Users\muhar\Desktop\Patika.dev\arraylist\obj\Debug\net6.0\ref\arraylist.dll
+C:\Users\muhar\Desktop\Patika.dev\arraylist\obj\Debug\net6.0\arraylist.pdb
+C:\Users\muhar\Desktop\Patika.dev\arraylist\obj\Debug\net6.0\arraylist.genruntimeconfig.cache

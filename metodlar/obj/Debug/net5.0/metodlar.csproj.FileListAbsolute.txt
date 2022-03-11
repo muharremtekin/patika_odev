@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Patika.dev\metodlar\bin\Debug\net5.0\metodlar.exe
+C:\Users\muhar\Desktop\Patika.dev\metodlar\bin\Debug\net5.0\metodlar.deps.json
+C:\Users\muhar\Desktop\Patika.dev\metodlar\bin\Debug\net5.0\metodlar.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\metodlar\bin\Debug\net5.0\metodlar.runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Patika.dev\metodlar\bin\Debug\net5.0\metodlar.dll
+C:\Users\muhar\Desktop\Patika.dev\metodlar\bin\Debug\net5.0\ref\metodlar.dll
+C:\Users\muhar\Desktop\Patika.dev\metodlar\bin\Debug\net5.0\metodlar.pdb
+C:\Users\muhar\Desktop\Patika.dev\metodlar\obj\Debug\net5.0\metodlar.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\metodlar\obj\Debug\net5.0\metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\metodlar\obj\Debug\net5.0\metodlar.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\metodlar\obj\Debug\net5.0\metodlar.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\metodlar\obj\Debug\net5.0\metodlar.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\metodlar\obj\Debug\net5.0\metodlar.dll
+C:\Users\muhar\Desktop\Patika.dev\metodlar\obj\Debug\net5.0\ref\metodlar.dll
+C:\Users\muhar\Desktop\Patika.dev\metodlar\obj\Debug\net5.0\metodlar.pdb
+C:\Users\muhar\Desktop\Patika.dev\metodlar\obj\Debug\net5.0\metodlar.genruntimeconfig.cache

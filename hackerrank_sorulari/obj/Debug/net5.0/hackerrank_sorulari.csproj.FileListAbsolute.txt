@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\bin\Debug\net5.0\hackerrank_sorulari.exe
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\bin\Debug\net5.0\hackerrank_sorulari.deps.json
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\bin\Debug\net5.0\hackerrank_sorulari.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\bin\Debug\net5.0\hackerrank_sorulari.runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\bin\Debug\net5.0\hackerrank_sorulari.dll
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\bin\Debug\net5.0\ref\hackerrank_sorulari.dll
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\bin\Debug\net5.0\hackerrank_sorulari.pdb
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\obj\Debug\net5.0\hackerrank_sorulari.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\obj\Debug\net5.0\hackerrank_sorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\obj\Debug\net5.0\hackerrank_sorulari.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\obj\Debug\net5.0\hackerrank_sorulari.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\obj\Debug\net5.0\hackerrank_sorulari.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\obj\Debug\net5.0\hackerrank_sorulari.dll
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\obj\Debug\net5.0\ref\hackerrank_sorulari.dll
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\obj\Debug\net5.0\hackerrank_sorulari.pdb
+C:\Users\muhar\Desktop\Patika.dev\hackerrank_sorulari\obj\Debug\net5.0\hackerrank_sorulari.genruntimeconfig.cache

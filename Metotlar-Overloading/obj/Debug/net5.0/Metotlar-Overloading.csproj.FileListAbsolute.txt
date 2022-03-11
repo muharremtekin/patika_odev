@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\bin\Debug\net5.0\Metotlar-Overloading.exe
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\bin\Debug\net5.0\Metotlar-Overloading.deps.json
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\bin\Debug\net5.0\Metotlar-Overloading.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\bin\Debug\net5.0\Metotlar-Overloading.runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\bin\Debug\net5.0\Metotlar-Overloading.dll
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\bin\Debug\net5.0\ref\Metotlar-Overloading.dll
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\bin\Debug\net5.0\Metotlar-Overloading.pdb
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\obj\Debug\net5.0\Metotlar-Overloading.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\obj\Debug\net5.0\Metotlar-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\obj\Debug\net5.0\Metotlar-Overloading.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\obj\Debug\net5.0\Metotlar-Overloading.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\obj\Debug\net5.0\Metotlar-Overloading.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\obj\Debug\net5.0\Metotlar-Overloading.dll
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\obj\Debug\net5.0\ref\Metotlar-Overloading.dll
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\obj\Debug\net5.0\Metotlar-Overloading.pdb
+C:\Users\muhar\Desktop\Patika.dev\Metotlar-Overloading\obj\Debug\net5.0\Metotlar-Overloading.genruntimeconfig.cache

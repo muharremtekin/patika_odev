@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\bin\Debug\net5.0\While-ve-ForEach.exe
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\bin\Debug\net5.0\While-ve-ForEach.deps.json
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\bin\Debug\net5.0\While-ve-ForEach.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\bin\Debug\net5.0\While-ve-ForEach.runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\bin\Debug\net5.0\While-ve-ForEach.dll
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\bin\Debug\net5.0\ref\While-ve-ForEach.dll
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\bin\Debug\net5.0\While-ve-ForEach.pdb
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\obj\Debug\net5.0\While-ve-ForEach.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\obj\Debug\net5.0\While-ve-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\obj\Debug\net5.0\While-ve-ForEach.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\obj\Debug\net5.0\While-ve-ForEach.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\obj\Debug\net5.0\While-ve-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\obj\Debug\net5.0\While-ve-ForEach.dll
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\obj\Debug\net5.0\ref\While-ve-ForEach.dll
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\obj\Debug\net5.0\While-ve-ForEach.pdb
+C:\Users\muhar\Desktop\Patika.dev\While-ve-ForEach\obj\Debug\net5.0\While-ve-ForEach.genruntimeconfig.cache

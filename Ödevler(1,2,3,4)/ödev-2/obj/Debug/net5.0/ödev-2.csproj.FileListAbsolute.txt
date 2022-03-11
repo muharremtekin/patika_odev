@@ -1,0 +1,16 @@
+C:\Users\muhar\Desktop\Ödevler\ödev-2\bin\Debug\net5.0\ödev-2.exe
+C:\Users\muhar\Desktop\Ödevler\ödev-2\bin\Debug\net5.0\ödev-2.deps.json
+C:\Users\muhar\Desktop\Ödevler\ödev-2\bin\Debug\net5.0\ödev-2.runtimeconfig.json
+C:\Users\muhar\Desktop\Ödevler\ödev-2\bin\Debug\net5.0\ödev-2.runtimeconfig.dev.json
+C:\Users\muhar\Desktop\Ödevler\ödev-2\bin\Debug\net5.0\ödev-2.dll
+C:\Users\muhar\Desktop\Ödevler\ödev-2\bin\Debug\net5.0\ref\ödev-2.dll
+C:\Users\muhar\Desktop\Ödevler\ödev-2\bin\Debug\net5.0\ödev-2.pdb
+C:\Users\muhar\Desktop\Ödevler\ödev-2\obj\Debug\net5.0\ödev-2.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Ödevler\ödev-2\obj\Debug\net5.0\ödev-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Ödevler\ödev-2\obj\Debug\net5.0\ödev-2.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Ödevler\ödev-2\obj\Debug\net5.0\ödev-2.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Ödevler\ödev-2\obj\Debug\net5.0\ödev-2.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Ödevler\ödev-2\obj\Debug\net5.0\ödev-2.dll
+C:\Users\muhar\Desktop\Ödevler\ödev-2\obj\Debug\net5.0\ref\ödev-2.dll
+C:\Users\muhar\Desktop\Ödevler\ödev-2\obj\Debug\net5.0\ödev-2.pdb
+C:\Users\muhar\Desktop\Ödevler\ödev-2\obj\Debug\net5.0\ödev-2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\bin\Debug\net6.0\sinif_nedir.exe
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\bin\Debug\net6.0\sinif_nedir.deps.json
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\bin\Debug\net6.0\sinif_nedir.runtimeconfig.json
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\bin\Debug\net6.0\sinif_nedir.dll
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\bin\Debug\net6.0\ref\sinif_nedir.dll
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\bin\Debug\net6.0\sinif_nedir.pdb
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\obj\Debug\net6.0\sinif_nedir.csproj.AssemblyReference.cache
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\obj\Debug\net6.0\sinif_nedir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\obj\Debug\net6.0\sinif_nedir.AssemblyInfoInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\obj\Debug\net6.0\sinif_nedir.AssemblyInfo.cs
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\obj\Debug\net6.0\sinif_nedir.csproj.CoreCompileInputs.cache
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\obj\Debug\net6.0\sinif_nedir.dll
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\obj\Debug\net6.0\ref\sinif_nedir.dll
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\obj\Debug\net6.0\sinif_nedir.pdb
+C:\Users\muhar\Desktop\Patika.dev\sinif_nedir\obj\Debug\net6.0\sinif_nedir.genruntimeconfig.cache
